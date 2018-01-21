@@ -1,5 +1,6 @@
 # ECCV-Single image dehazing via Multi-scale Convolutional Neural Networks
 Wenqi Ren, Si Liu, Hua Zhang, Jinshan Pan, Xiaochun Cao, and Ming-Hsuan Yang
+
 Released in 10/10/2016. The codes are based on MatConvNet.
 
 # Description
