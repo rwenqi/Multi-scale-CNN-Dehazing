@@ -17,7 +17,6 @@ The current published compliled version in the folder "MSCNN_dehazing\matlab" ca
 Citations
 
 @inproceedings{Ren-ECCV-2016,
-
     author = {Ren, Wenqi and Liu, Si and Zhang, Hua and Pan, Jinshan and Cao, Xiaochun and Yang, Ming-Hsuan},
     title = {Single Image Dehazing via Multi-Scale Convolutional Neural Networks},
     booktitle = {European Conference on Computer Vision},
