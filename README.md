@@ -1,4 +1,4 @@
-ECCV-Single image dehazing via via Multi-scale Convolutional Neural Networks
+ECCV-Single image dehazing via Multi-scale Convolutional Neural Networks
 Released in 10/10/2016. The codes are based on MatConvNet.
 
 Description
