@@ -7,7 +7,7 @@ Released in 10/10/2016. The codes are based on MatConvNet.
 
 This is a test implementation for ECCV16 paper: Single Image Dehazing via Multi-scale Convolutional Neural Networks. We provide testing demo as well as the pretrained model. 
 
-# Scripts and pre-trained models
+# Scripts and pre-trained model
 
 This is a demo implementation for our dehazing paper in ECCV16.
 
